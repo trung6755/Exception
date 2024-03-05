@@ -1,0 +1,7 @@
+C:\Users\Astral\source\repos\Exception\Exception\obj\Debug\Exception.csproj.AssemblyReference.cache
+C:\Users\Astral\source\repos\Exception\Exception\obj\Debug\Exception.csproj.CoreCompileInputs.cache
+C:\Users\Astral\source\repos\Exception\Exception\bin\Debug\Exception.exe.config
+C:\Users\Astral\source\repos\Exception\Exception\bin\Debug\Exception.exe
+C:\Users\Astral\source\repos\Exception\Exception\bin\Debug\Exception.pdb
+C:\Users\Astral\source\repos\Exception\Exception\obj\Debug\Exception.exe
+C:\Users\Astral\source\repos\Exception\Exception\obj\Debug\Exception.pdb
